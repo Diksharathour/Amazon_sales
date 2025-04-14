@@ -1,4 +1,4 @@
-# Amazon Sales Analysis SQL Project
+## Amazon Sales Analysis SQL Project
 
 #  **Project Overview**
 
@@ -174,18 +174,17 @@ order by season, total_sales desc;
 ## Findings & Insights
 
 1. **Customer & Product Insights**
-•	Olivia Wilson, Jane Smith, John Doe, David Lee, and Daniel Harris are the top 5 customers who consistently purchase premium or higher-priced products.
-•	Products like Refrigerator, Smartwatches, Laptop, and Washing Machine appear frequently, indicating high demand.
-
+-	Olivia Wilson, Jane Smith, John Doe, David Lee, and Daniel Harris are the top 5 customers who consistently purchase premium or higher-priced products.
+- Products like Refrigerator, Smartwatches, Laptop, and Washing Machine appear frequently, indicating high demand.
 
 2. **Category Performance**
-•	Home Appliances and Electronics perform best in terms of total revenue.
-•	Books, Clothing, and Footwear contribute much less to revenue, with lower quantities and lower revenue per unit.
-•	Refrigerators consistently top revenue across both February and March 2025.
+- Home Appliances and Electronics perform best in terms of total revenue.
+-	Books, Clothing, and Footwear contribute much less to revenue, with lower quantities and lower revenue per unit.
+-	Refrigerators consistently top revenue across both February and March 2025.
 
-4. **Order Status & Payment**
-•	High volumes of pending and cancelled orders, especially in February, suggest potential issues in supply chain, delivery, or payment processing. There's a positive shift in March, with more completed orders, possibly due to operational adjustments or seasonal trends.
-•	PayPal consistently dominates across all months, making it the most preferred and reliable payment method. Credit and Debit Cards maintain stable usage.
+3. **Order Status & Payment**
+-	High volumes of pending and cancelled orders, especially in February, suggest potential issues in supply chain, delivery, or payment processing. There's a positive shift in March, with more completed orders, possibly due to operational adjustments or seasonal trends.
+- PayPal consistently dominates across all months, making it the most preferred and reliable payment method. Credit and Debit Cards maintain stable usage.
 
 
 ## Conclusion
