@@ -1,6 +1,6 @@
 # Amazon Sales Analysis SQL Project
 
-#  **Amazon Sales Analysis SQL Project**
+#  **Project Overview**
 
 The ``amazon_sales`` dataset includes detailed information such as order ID, purchase date, product and category details, price, quantity, total sales, customer data, location, payment method, and order status.
 The primary goal of this project is to understand customer behavior, identify top-performing products and regions, evaluate seasonal sales trends, and evaluate factors affecting revenue and profitability. 
