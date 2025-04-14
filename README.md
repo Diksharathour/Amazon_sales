@@ -1,4 +1,4 @@
-# ** Amazon Sales Analysis SQL Project**
+# Amazon Sales Analysis SQL Project
 
 #  **Amazon Sales Analysis SQL Project**
 
@@ -174,22 +174,23 @@ order by season, total_sales desc;
 ## Findings & Insights
 
 1. **Customer & Product Insights**
-Olivia Wilson, Jane Smith, John Doe, David Lee, and Daniel Harris are the top 5 customers who consistently purchase premium or higher-priced products.
-Products like Refrigerator, Smartwatches, Laptop, and Washing Machine appear frequently, indicating high demand.
+•	Olivia Wilson, Jane Smith, John Doe, David Lee, and Daniel Harris are the top 5 customers who consistently purchase premium or higher-priced products.
+•	Products like Refrigerator, Smartwatches, Laptop, and Washing Machine appear frequently, indicating high demand.
 
-3. **Category Performance**
-Home Appliances and Electronics perform best in terms of total revenue.
-Books, Clothing, and Footwear contribute much less to revenue, with lower quantities and lower revenue per unit.
-Refrigerators consistently top revenue across both February and March 2025.
+
+2. **Category Performance**
+•	Home Appliances and Electronics perform best in terms of total revenue.
+•	Books, Clothing, and Footwear contribute much less to revenue, with lower quantities and lower revenue per unit.
+•	Refrigerators consistently top revenue across both February and March 2025.
 
 4. **Order Status & Payment**
-High volumes of pending and cancelled orders, especially in February, suggest potential issues in supply chain, delivery, or payment processing.There's a positive shift in March, with more completed orders, possibly due to operational adjustments or seasonal trends.
-PayPal consistently dominates across all months, making it the most preferred and reliable payment method. Credit and Debit Cards maintain stable usage.
+•	High volumes of pending and cancelled orders, especially in February, suggest potential issues in supply chain, delivery, or payment processing. There's a positive shift in March, with more completed orders, possibly due to operational adjustments or seasonal trends.
+•	PayPal consistently dominates across all months, making it the most preferred and reliable payment method. Credit and Debit Cards maintain stable usage.
 
 
 ## Conclusion
 
-The analysis of the amazon_sales database provides key insights into customer purchasing behavior and business performance. 
+The analysis of the ``amazon_sales`` database provides key insights into customer purchasing behavior and business performance. 
 Home Appliances generate high revenue with lower sales volume, making it a top-performing category with low quantities sold — ideal for focusing on high-margin products.
 February and March 2025 saw strong performance in premium segments like Refrigerators, Laptops, and Smartphones, contributing to revenue above ₹10,000 per product.
 Dallas, Los Angeles, and Miami are consistently showing higher cancellation volumes, pointing to possible region-specific challenges like Delivery/logistics disruptions, stock unavailability, payment issues, improve delivery timelines, enhance customer service.
